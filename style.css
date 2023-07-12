@@ -1,0 +1,33 @@
+.imagem--hover:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.imagem--borda-hover:hover{
+    border: 5px outset black;
+    transition:  all 0.1s ease-in-out;
+    cursor: pointer;
+}
+
+.imagem--aumentada-hover{
+
+}
+
+.table__produtos--tamanho{
+    width: fit-content; 
+    height: fit-content;
+}
+
+.elemento__desconto--hover:hover{
+    height: fit-content;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: all 1s ease-in-out;
+}
+
+.elemento__fundo--hover:hover{
+    background-color: black;
+    cursor: pointer;
+    transition: all 1s ease-in-out;
+}
